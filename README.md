@@ -161,6 +161,7 @@ Data Cleaning & EDA (Exploratory Data Analysis)
 ---
 
 ### 📄 Full Excel Report
+[Download Customer Churn Analysis Excel File] https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/FInal%20Report.xlsx
 
 
 
