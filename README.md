@@ -10,7 +10,7 @@ I was intentional about clarity and simplicity — making insights easy to under
 
 TABLE OF CONTENTS:
 
-Introduction
+Introduction-
 
 Telco_data_org
 
@@ -45,14 +45,16 @@ Customer churn is one of the most critical KPIs in the telecom industry. In this
 
 
 
-SCREEN 1: 
+SCREEN 1: https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%201.png?raw=true
+
 Calculate the Churn Rate 
 Basic churn rate formula: Churn Rate = (Number of Customers Who Churned / Total Customers) * 100
 This helped establish a benchmark for how serious the churn issue is.
 
 
 
-SCREEN 2: Descriptive Statistics and Churn Patterns
+SCREEN 2: Descriptive Statistics and Churn Patterns https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%202.png?raw=true
+
 Used summary statistics (mean, min, max, standard deviation) on:
 Total Day Minutes
 Total Day Calls
@@ -61,25 +63,29 @@ Compared churned vs non-churned customers to identify behavioral differences.
 
 
 
-SCREEN 3: Exploring Data by State and Churn Grouped churn data by U.S. states.
+SCREEN 3: Exploring Data by State and Churn Grouped churn data by U.S. states. https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%203.png?raw=true
+
 Identified top 5 states with highest churn rates:
 New Jersey, California, Washington, Maryland, Montana
 These became the focus for deeper behavioral insights.
 
 
-SCREEN 4: Exploring Data by Voice Mail Plan and Churn
+SCREEN 4: Exploring Data by Voice Mail Plan and Churn  https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%204.png?raw=true
+
 Analyzed whether having a voice mail plan affects churn.
 Found that customers without a voicemail plan were more likely to churn — indicating possible unmet needs or lack of engagement.
 
 
 
-SCREEN 5: Analyzing Frequency Distributions
+SCREEN 5: Analyzing Frequency Distributions  https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%205.png?raw=true
+
 Looked at how often churned customers contacted customer service.
 High frequency often correlated with churn — suggesting poor experience or unresolved issues.
 
 
 
-SCREEN 6: Visualizing Data by State and Churn
+SCREEN 6: Visualizing Data by State and Churn https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%206.png?raw=true
+
 Created bar charts and pivot tables to:
 
 I. Compare usage metrics by state
@@ -91,7 +97,8 @@ Visuals made it easier to detect churn trends tied to location and usage.
 
 
 
-SCREEN 7: Exploring and Visualizing Data by Churn
+SCREEN 7: Exploring and Visualizing Data by Churn https://github.com/marvinanjorin/Customer-Churn-Analysis/blob/main/screenshots/Screen%207.png?raw=true
+
 Focused on key metrics:
 
 voice_mail_plan
@@ -117,6 +124,8 @@ Plan-related churn patterns
 
 
 ---
+
+
 
 
 Conclusion & Recommendations
@@ -148,4 +157,6 @@ Summary Statistics
 Charts & Visualizations (Bar, Line, Column)
 
 Data Cleaning & EDA (Exploratory Data Analysis)
+
+
 
